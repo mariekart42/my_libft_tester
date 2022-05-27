@@ -1,0 +1,7 @@
+- makefile rules for manda and bonus
+     -> run all of them at once
+
+- compress rules for calling special function each
+     (look into Triple)
+
+- update .PHONY 
