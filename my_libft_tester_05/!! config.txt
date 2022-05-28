@@ -1,0 +1,13 @@
+
+
+
+1.   Put Path of libft.h from User in Makefile 
+          (without /libft.h at the end)
+          
+2.   Put Path of libft.h from User in head.h 
+               (with /libft.h)
+
+
+execute file        -> 'make 01' (02, 03, ...)
+remove .o / .out    -> 'make clean'
+run test file       -> 'make test'

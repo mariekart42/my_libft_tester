@@ -1,0 +1,6 @@
+- makefile rules for manda and bonus
+     -> run all of them at once
+     -> give at the end output how many funcs was correc
+          -> nice pic when everthing right
+- compress rules for calling special function each
+     (look into Triple)
