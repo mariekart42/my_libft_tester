@@ -13,4 +13,5 @@
 
 0.4   just some smol fixes 
       (updated wannado file, updated .PHONY)
-  
+ 
+0.5   27 funcs now
